@@ -1,7 +1,8 @@
-# ai
+# artificial intelligence
+## general
+* [machine learning](./machine-learning)
+* [neural network](./neural-network)
 
-## [3blue1brown](./3blue1brown)
-
-## [hunl poker](./hunl-poker)
-
-## [multi poker](./multi-poker)
+## thesis
+* [heads-up no-limit poker](./thesis/hunl-poker)
+* [multi-player poker](./thesis/multi-poker)
